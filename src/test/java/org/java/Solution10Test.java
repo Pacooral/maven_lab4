@@ -14,7 +14,7 @@ public class Solution10Test {
 
         //再写一个
         result = solution10.fractionAddition("1/3-1/2");
-        assertEquals("0",result);
+        assertEquals("-1/6",result);
 
     }
 
