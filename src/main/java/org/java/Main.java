@@ -5,7 +5,7 @@ package org.java;
 public class Main {
     public static void main(String[] args) {
         Solution10 solution10 = new Solution10();
-        String result = solution10.fractionAddition("-1/2+1/2+1/3");
+        String result = solution10.fractionAddition("-1/2+1/2+1/2");
         System.out.println(result);
     }
 }
